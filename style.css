@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&family=Oswald:wght@700&family=Poppins:wght@600&display=swap');
+
+h1 {
+    
+    color: yellow;
+    font-family: 'Nova Square', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+span {
+    color: red;
+}
+.div {
+    margin-top: 300px;
+    margin-left: 400px;
+}
